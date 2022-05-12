@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm applying the NASA Land Information System to support a Malaria Early Warning System designed for the Amazon Rainforest region of South America. I'm also investigating ocean-atmosphere related drivers of extreme precipitation and flooding in Amazonia - events that can influence mosquito behavior and malaria risk.  
 
-✨ My dissertation focused on extreme variations in the radar-derived rain-snow transition elevation during atmospheric river storms, and extreme precipitation in the western U.S.
+✨ My Ph.D. dissertation focused on extreme variations in the radar-derived rain-snow transition elevation during atmospheric river storms, and extreme precipitation in the western U.S.
 
 Occasional Tweets @TashianaOsborne
 
