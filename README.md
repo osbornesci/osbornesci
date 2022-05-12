@@ -7,6 +7,7 @@
 ✨ My Ph.D. dissertation at Scripps Institution of Oceanography (UC San Diego) focused on extreme variations in the radar-derived rain-snow transition elevation during atmospheric river storms, and extreme precipitation in the western U.S.
 
 Occasional Tweets @TashianaOsborne
+www.tashianaosborne.com
 
 <!---
 osbornesci/osbornesci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
